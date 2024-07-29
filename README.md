@@ -19,7 +19,7 @@ $ python2 X-wpbf.py
 ```
 ## example of use 
 ```
-$ python2 X-wpbf.py -h https://test.com/wp-login.php -u admin -P password.txt'
+$ python2 X-wpbf.py -h https://test.com/wp-login.php -u admin -P password.txt
 ```
 ## Password list.txt
 ```
